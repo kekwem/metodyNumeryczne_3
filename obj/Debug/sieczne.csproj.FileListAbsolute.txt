@@ -1,0 +1,10 @@
+C:\Users\Dimon\source\repos\sieczne\bin\Debug\sieczne.exe.config
+C:\Users\Dimon\source\repos\sieczne\bin\Debug\sieczne.exe
+C:\Users\Dimon\source\repos\sieczne\bin\Debug\sieczne.pdb
+C:\Users\Dimon\source\repos\sieczne\obj\Debug\sieczne.csproj.AssemblyReference.cache
+C:\Users\Dimon\source\repos\sieczne\obj\Debug\sieczne.Form1.resources
+C:\Users\Dimon\source\repos\sieczne\obj\Debug\sieczne.Properties.Resources.resources
+C:\Users\Dimon\source\repos\sieczne\obj\Debug\sieczne.csproj.GenerateResource.cache
+C:\Users\Dimon\source\repos\sieczne\obj\Debug\sieczne.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\source\repos\sieczne\obj\Debug\sieczne.exe
+C:\Users\Dimon\source\repos\sieczne\obj\Debug\sieczne.pdb
